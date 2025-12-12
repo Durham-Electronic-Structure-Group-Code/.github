@@ -23,8 +23,9 @@ If you are unsure about anything, please ask a more senior group member!
 
   Although it primarily supports CASTEP, **output from other codes can also be visualised in principle**
 
-
 Additionally, there is a [general scripts](https://github.com/Durham-Electronic-Structure-Group-Code/general-scripts) repository that contains miscellaneous scripts that are useful for a variety of tasks.
+
+Finally, although an editor is a personal choice, for those who use Emacs (or would like to convert to the church of Emacs), an Emacs configuration designed for HPC and has been tested on Hamilton is available [here](https://github.com/Durham-Electronic-Structure-Group-Code/emacs-config)
 
 ## Some Useful Python Packages
 Beyond the standard scientific Python ecosystem, there are some other useful libraries for electronic structure that are well-tested, mature and (mostly) stable. You should use these to benefit from the efforts of others rather than expending your own!
