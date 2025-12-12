@@ -15,16 +15,16 @@ If you are unsure about anything, please ask a more senior group member!
 
 
 ## Some Important Repositories
-- CASTEPbands: Visualisation of band structures and other spectral properties from CASTEP, effectively a Python library replacement to the somewhat ageing `dispersion.pl`.
+- [CASTEPbands](https://github.com/NPBentley/CASTEP_bands): Visualisation of band structures and other spectral properties from CASTEP, effectively a Python library replacement to the somewhat ageing `dispersion.pl`.
 
   Developed initially by Zachary Hawkhead and then updated and enhanced by Nathan Bentley and Visagan Ravindran.
 
-- CASTEP Formatted Visualiser: A library built on Pyvista to set up visualisation of crystal structures and 3D data.
+- [CASTEP Formatted Visualiser](https://github.com/Inker2401/castep-fmtvis): A library built on Pyvista to set up visualisation of crystal structures and 3D data.
 
   Although it primarily supports CASTEP, **output from other codes can also be visualised in principle**
 
 
-Additionally, there is a general scripts repository that contains miscellaneous scripts that are useful for a variety of tasks.
+Additionally, there is a [general scripts](https://github.com/Durham-Electronic-Structure-Group-Code/general-scripts) repository that contains miscellaneous scripts that are useful for a variety of tasks.
 
 ## Some Useful Python Packages
 Beyond the standard scientific Python ecosystem, there are some other useful libraries for electronic structure that are well-tested, mature and (mostly) stable. You should use these to benefit from the efforts of others rather than expending your own!
